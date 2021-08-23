@@ -1,0 +1,4 @@
+DashAttackParam:
+    type: patch
+    data: 0x0
+    addr: 0x008B9AC8

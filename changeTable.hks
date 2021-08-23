@@ -1,0 +1,5 @@
+LoadSeed:
+    type: branch
+    link: true
+    func: ChangeSeed
+    addr: 0x002C0278
