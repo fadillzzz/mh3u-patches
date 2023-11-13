@@ -1,0 +1,5 @@
+WindPressureDistance:
+    type: branch
+    link: true
+    func: NormalizeWindPressureDistance
+    addr: 0x922E78
