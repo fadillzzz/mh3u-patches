@@ -1,0 +1,8 @@
+code.bin
+exheader.bin
+linker.x
+newcode.bin
+newcode.elf
+newcode.sym
+build/
+bak/

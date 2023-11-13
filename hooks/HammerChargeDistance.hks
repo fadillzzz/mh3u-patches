@@ -1,0 +1,5 @@
+NormalizeVec3XZRet:
+    type: branch
+    link: true
+    func: NormalizeHammerChargeDistance
+    addr: 0x8B84D0

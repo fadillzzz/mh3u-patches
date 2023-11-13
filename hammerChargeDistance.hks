@@ -1,5 +1,0 @@
-HammerChargeDistance:
-    type: branch
-    link: true
-    func: NormaliseHammerCharge
-    addr: 0x008b84d0

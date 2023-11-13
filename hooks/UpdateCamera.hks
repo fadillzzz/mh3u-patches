@@ -1,0 +1,5 @@
+UpdateCamera:
+    type: branch
+    link: true
+    func: NormalizeCameraSpeedCaller
+    addr: 0x00267238
