@@ -1,0 +1,3 @@
+BasedOn: LLVM
+IndentWidth: 4
+IndentExternBlock: Indent
