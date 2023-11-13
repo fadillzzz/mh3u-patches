@@ -1,0 +1,4 @@
+loader.bin
+loader.elf
+loader.sym
+source/newcodeinfo.h
