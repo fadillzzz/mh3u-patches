@@ -9,3 +9,6 @@ A set of patches for the 3DS version of MH3U. Works for both real 3DS (with home
   - Wind pressure knockback
   - Hammer level 2 charge distance
   - Camera speed
+
+## To do
+- Fix Greatsword block knockback
